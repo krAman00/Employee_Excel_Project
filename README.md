@@ -44,8 +44,8 @@ This project provides a visual representation of key workforce metrics, trends, 
      - **Corporate**: 23.7%
      - **Research & Development**: 22.9%
 
-### Filters:
-The dashboard includes filters for:
+### Sclicers:
+The dashboard includes Sclicers for:
 - **Job Title**
 - **Department**
 - **Country**
